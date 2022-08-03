@@ -1,0 +1,8 @@
+{
+  "name": "Custom Shortcuts",
+  "description": "Custom keyboard shortcuts: <super>o - toggle status menu",
+  "uuid": "custom-shortcuts@psvo.jatys.cz",
+  "shell-version": [
+    "42"
+  ]
+}
